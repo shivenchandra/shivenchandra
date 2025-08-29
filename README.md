@@ -11,8 +11,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shivenchandra&theme=moltack&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shivenchandra&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenchandra&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=shivenchandra&theme=moltack&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenchandra&theme=moltack&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shivenchandra&icon=0&color=0)](https://visitcount.itsvg.in)
