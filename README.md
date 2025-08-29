@@ -10,7 +10,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivenchandra&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shivenchandra&theme=moltack&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shivenchandra&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenchandra&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
